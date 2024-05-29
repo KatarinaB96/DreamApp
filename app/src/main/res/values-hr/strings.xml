@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Dream</string>
+    <string name="language">Hrvatski</string>
+    <string name="change_language">Promijenite jezik ovdje:</string>
+    <string name="button_story">Priče</string>
+    <string name="button_previous">Prethodna</string>
+    <string name="button_next">Iduća</string>
+    <string name="lost_kitten">Izgubljeno mače</string>
+    <string name="brave_turtle">Hrabra mala kornjača</string>
+    <string name="magic_carrot">Čarobna mrkva</string>
+    <string name="home">Naslovna</string>
+    <string name="story">Priča</string>
+    <string name="settings">Postavke</string>
+    <string name="visit_site">"Za još više priča posjetite stranicu: "</string>
+    <string name="story_lost_kitten">Jednom davno, mala mačkica po imenu Whiskers izgubila se u šumi. Uplašena i sama, glasno je mjaukala. Dobri je ptica čula i sletjela kako bi pomogla. Ptica je vodila Whiskersa natrag kući, i mačkica je naučila uvijek biti blizu svoje obitelji.</string>
+    <string name="story_brave_turtle">U malom ribnjaku, mala kornjača po imenu Tilly htjela je vidjeti svijet. Polako se uputila vani i upoznala mnoge prijatelje, poput žabe i leptira. Kad je došla oluja, Tilly je hrabro vodila svoje nove prijatelje u sigurnost, dokazujući da čak i najmanja bića mogu biti heroji.</string>
+    <string name="story_magic_carrot">Beni Zeko pronašao je svjetlucavu mrkvu u vrtu. Kad ju je zagrizao, odjednom je mogao skakati više nego ikad prije! Beni je koristio svoju novu moć kako bi pomogao svojim prijateljima da dosegnu visoke grane i skupe hranu. Čarobna mrkva naučila je Benija da dijeljenje njegovih darova čini svakoga sretnim.</string>
+</resources>
